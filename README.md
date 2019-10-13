@@ -1,7 +1,7 @@
 # demo02
 
 ## Descripción
-Proyecto base de Vue + VueRouter
+Proyecto base de Vue + VueRouter + Rutas dinámicas
 
 ## Project setup
 ```

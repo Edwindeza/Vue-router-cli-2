@@ -6,6 +6,6 @@
 
 <script>
 export default {
-    name:'Photo'
+  name:'Photo'
 }
 </script>
